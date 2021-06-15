@@ -1,0 +1,12 @@
+packages use in this 
+1 joi > conditioning on schema for number string or - + above below values
+2 lodash specific showing details
+3 bcryptjs  password hash
+4 mongoose for db 
+5 config for db control
+6 jsonwebtoken this use for tokenisation of session time out exampple of jazz cash
+token  headers value checking at post of login user
+req.user embed hojai ga
+>har bar token genrate karnay  liyay yuser login kar k post method use hoga then token milay ga
+ 1st token of ad min lo then data fecth power aye gi
+jab ap get method lagao gay
